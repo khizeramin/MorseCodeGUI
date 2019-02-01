@@ -1,0 +1,15 @@
+C:\Users\engrk\Documents\Visual Studio 2017\WPF\HelloWorldDemoApp\HelloWorldDemoApp\bin\Debug\HelloWorldDemoApp.exe.config
+C:\Users\engrk\Documents\Visual Studio 2017\WPF\HelloWorldDemoApp\HelloWorldDemoApp\bin\Debug\HelloWorldDemoApp.exe
+C:\Users\engrk\Documents\Visual Studio 2017\WPF\HelloWorldDemoApp\HelloWorldDemoApp\bin\Debug\HelloWorldDemoApp.pdb
+C:\Users\engrk\Documents\Visual Studio 2017\WPF\HelloWorldDemoApp\HelloWorldDemoApp\obj\Debug\MainWindow.g.cs
+C:\Users\engrk\Documents\Visual Studio 2017\WPF\HelloWorldDemoApp\HelloWorldDemoApp\obj\Debug\App.g.cs
+C:\Users\engrk\Documents\Visual Studio 2017\WPF\HelloWorldDemoApp\HelloWorldDemoApp\obj\Debug\HelloWorldDemoApp_MarkupCompile.cache
+C:\Users\engrk\Documents\Visual Studio 2017\WPF\HelloWorldDemoApp\HelloWorldDemoApp\obj\Debug\HelloWorldDemoApp_MarkupCompile.lref
+C:\Users\engrk\Documents\Visual Studio 2017\WPF\HelloWorldDemoApp\HelloWorldDemoApp\obj\Debug\MainWindow.baml
+C:\Users\engrk\Documents\Visual Studio 2017\WPF\HelloWorldDemoApp\HelloWorldDemoApp\obj\Debug\HelloWorldDemoApp.g.resources
+C:\Users\engrk\Documents\Visual Studio 2017\WPF\HelloWorldDemoApp\HelloWorldDemoApp\obj\Debug\HelloWorldDemoApp.Properties.Resources.resources
+C:\Users\engrk\Documents\Visual Studio 2017\WPF\HelloWorldDemoApp\HelloWorldDemoApp\obj\Debug\HelloWorldDemoApp.csproj.GenerateResource.cache
+C:\Users\engrk\Documents\Visual Studio 2017\WPF\HelloWorldDemoApp\HelloWorldDemoApp\obj\Debug\HelloWorldDemoApp.csproj.CoreCompileInputs.cache
+C:\Users\engrk\Documents\Visual Studio 2017\WPF\HelloWorldDemoApp\HelloWorldDemoApp\obj\Debug\HelloWorldDemoApp.exe
+C:\Users\engrk\Documents\Visual Studio 2017\WPF\HelloWorldDemoApp\HelloWorldDemoApp\obj\Debug\HelloWorldDemoApp.pdb
+C:\Users\engrk\Documents\Visual Studio 2017\WPF\HelloWorldDemoApp\HelloWorldDemoApp\obj\Debug\HelloWorldDemoApp.csprojAssemblyReference.cache

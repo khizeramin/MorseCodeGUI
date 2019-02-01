@@ -1,0 +1,10 @@
+﻿<Application x:Class="HelloWorldDemoApp.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:HelloWorldDemoApp"
+             StartupUri="MainWindow.xaml"> <!--This is where the application is going to start, The system is goinf to launch this file as 
+                                            soon as the application starts-->
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
